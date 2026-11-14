@@ -17,7 +17,7 @@ SCE331 Data Mining 프로젝트. 이 프로젝트는 출판연도를 기준으�
 | G13 | 윤지원 | 202220747 | 데이터 수집, AI 활용 코드 구현 관리, 결과 검증 |
 | G13 | 조성진 | 202220701 | 보고서 작성 |
 
-GitHub URL: (입력 요망)
+GitHub URL: https://github.com/josj5435/DM_G13_ogbn-arxiv-analysis
 
 비공개 저장소는 수업 가이드의 `leesael` 또는 `sael@ajou.ac.kr` 계정에 collaborator 접근 권한을 설정합니다.
 
