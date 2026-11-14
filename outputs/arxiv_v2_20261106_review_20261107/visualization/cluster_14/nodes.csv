@@ -1,0 +1,81 @@
+﻿original_node_id,cluster_id,pagerank,year,label,title,is_center,is_anchor
+325,14,4.9913406570943234e-06,2016,16,relief r cnn utilizing convolutional feature interrelationship for fast object detection deployment,False,False
+3023,14,4.9913406570943234e-06,2017,16,deep frame interpolation,False,False
+4349,14,6.384357731146253e-06,2017,16,learning spatio temporal representation with pseudo 3d residual networks,False,False
+5634,14,4.9913406570943234e-06,2017,16,real time document image classification using deep cnn and extreme learning machines,False,False
+9556,14,4.9913406570943234e-06,2017,16,content based video music retrieval using soft intra modal structure constraint,False,False
+13421,14,7.910367430936295e-06,2016,16,latent fingerprint minutia extraction using fully convolutional network,False,False
+13425,14,5.078689118758137e-06,2016,16,enhanced object detection via fusion with prior beliefs from image classification,False,False
+16328,14,5.282502195973702e-06,2017,16,learning from millions of 3d scans for large scale 3d face recognition,False,False
+17695,14,4.9913406570943234e-06,2017,24,deep scattering rendering atmospheric clouds with radiance predicting neural networks,False,False
+20679,14,4.9913406570943234e-06,2017,16,recurrent saliency transformation network incorporating multi stage visual cues for small organ segmentation,False,False
+22502,14,0.0015451426076868314,2013,16,overfeat integrated recognition localization and detection using convolutional networks,False,False
+23507,14,4.9913406570943234e-06,2016,16,x ray scattering image classification using deep learning,False,False
+24285,14,5.120745785485158e-06,2017,16,s 3 fd single shot scale invariant face detector,False,False
+24480,14,4.9913406570943234e-06,2017,16,seethrough finding chairs in heavily occluded indoor scene images,False,False
+24683,14,1.4231667518096126e-05,2016,16,unsupervised monocular depth estimation with left right consistency,False,False
+24708,14,6.8190651836910595e-06,2016,16,egocap egocentric marker less motion capture with two fisheye cameras,False,False
+26909,14,4.9913406570943234e-06,2017,16,fine grained head pose estimation without keypoints,False,False
+30707,14,4.9913406570943234e-06,2017,16,facial expression recognition using a hybrid cnn sift aggregator,False,False
+32647,14,5.532460814262796e-06,2016,16,semantic video segmentation by gated recurrent flow propagation,False,False
+33540,14,5.172025041859317e-06,2017,16,compressed video action recognition,False,False
+38860,14,5.809310473660161e-06,2017,16,blitznet a real time deep network for scene understanding,False,False
+40809,14,4.9913406570943234e-06,2017,16,one shot fine grained instance retrieval,False,False
+46968,14,4.9913406570943234e-06,2017,16,deep koalarization image colorization using cnns and inception resnet v2,False,False
+49637,14,5.152546901780086e-06,2017,16,recurrent pixel embedding for instance grouping,False,False
+53523,14,4.9913406570943234e-06,2017,16,illuminating pedestrians via simultaneous detection segmentation,False,False
+58630,14,7.537012056375121e-05,2016,16,ssd single shot multibox detector,False,False
+58885,14,5.41264239990752e-06,2017,16,high quality facial photo sketch synthesis using multi adversarial networks,False,False
+60617,14,5.661921855046772e-06,2017,16,sort second order response transform for visual recognition,False,False
+61499,14,4.9913406570943234e-06,2017,16,3d a nets 3d deep dense descriptor for volumetric shapes with adversarial networks,False,False
+64083,14,5.340734503749578e-06,2017,16,aesthetic driven image enhancement by adversarial learning,False,False
+65360,14,4.9913406570943234e-06,2017,16,superpixel based class semantic texton occurrences for natural roadside vegetation segmentation,False,False
+66730,14,4.9913406570943234e-06,2017,16,high resolution multispectral dataset for semantic segmentation,False,False
+67166,14,0.0009296725493056017,2015,16,deep residual learning for image recognition,False,False
+68121,14,4.9913406570943234e-06,2017,16,dota a large scale dataset for object detection in aerial images,False,False
+69434,14,4.9913406570943234e-06,2017,16,modelling the scene dependent imaging in cameras with a deep neural network,False,False
+72014,14,5.864825273732458e-06,2017,16,generative cooperative net for image generation and data augmentation,False,False
+72680,14,4.9913406570943234e-06,2017,16,automated cardiovascular magnetic resonance image analysis with fully convolutional networks,False,False
+73397,14,4.9913406570943234e-06,2017,16,multi modal multi scale deep learning for large scale image annotation,False,False
+75852,14,4.9913406570943234e-06,2016,16,pcanet an energy perspective,False,False
+78575,14,4.9913406570943234e-06,2017,30,video highlight prediction using audience chat reactions,False,False
+79853,14,5.16603758042195e-06,2017,16,structure preserving image super resolution via contextualized multitask learning,False,False
+82932,14,5.185448349680576e-06,2016,16,multimodal memory modelling for video captioning,False,False
+84138,14,4.9913406570943234e-06,2017,16,not all pixels are equal difficulty aware semantic segmentation via deep layer cascade,False,False
+84992,14,5.572063946177919e-06,2017,16,sequential deep trajectory descriptor for action recognition with three stream cnn,False,False
+85076,14,4.9913406570943234e-06,2017,24,sleepnet automated sleep staging system via deep learning,False,True
+87820,14,4.9913406570943234e-06,2017,16,visually aware fashion recommendation and design with generative image models,False,False
+94404,14,4.9913406570943234e-06,2017,16,ubsegnet unified biometric region of interest segmentation network,False,False
+96121,14,5.955720371126509e-06,2016,16,frame and segment level features and candidate pool evaluation for video caption generation,False,False
+99661,14,5.6018202302533325e-06,2017,16,temporal modeling approaches for large scale youtube 8m video understanding,False,False
+100934,14,4.9913406570943234e-06,2017,16,pathological oct retinal layer segmentation using branch residual u shape networks,False,False
+101005,14,4.9913406570943234e-06,2017,16,deep residual text detection network for scene text,False,False
+101080,14,4.9913406570943234e-06,2017,16,deep depth inference using binocular and monocular cues,False,False
+101343,14,6.935447056892772e-06,2017,16,towards accurate multi person pose estimation in the wild,False,False
+102276,14,4.9913406570943234e-06,2017,16,fast and accurate image super resolution by deep cnn with skip connection and network in network,False,False
+105310,14,4.9913406570943234e-06,2017,16,pairwise confusion for fine grained visual classification,False,False
+106173,14,5.3929745079356544e-06,2016,16,word2visualvec image and video to sentence matching by visual feature prediction,False,False
+106303,14,5.386476725265566e-06,2017,16,attention clusters purely attention based local feature integration for video classification,False,False
+108220,14,9.189828986831916e-06,2016,16,network of experts for large scale image categorization,False,False
+110285,14,4.9913406570943234e-06,2017,16,artificial generation of big data for improving image classification a generative adversarial network approach on sar data,False,False
+112817,14,4.9913406570943234e-06,2017,16,multi view dynamic facial action unit detection,False,False
+120794,14,5.142401288448275e-06,2017,16,pose normalized image generation for person re identification,False,False
+122073,14,5.068157743954327e-06,2017,16,cascaded pyramid network for multi person pose estimation,False,False
+123430,14,4.9913406570943234e-06,2017,16,spatial pixelcnn generating images from patches,False,False
+125992,14,6.905628846949212e-06,2017,16,pose invariant embedding for deep person re identification,False,False
+127449,14,4.9913406570943234e-06,2017,16,deep blind image inpainting,False,False
+131362,14,5.143251025205304e-06,2017,16,learning 3d object categories by looking around them,False,False
+131448,14,5.653365065519274e-06,2017,16,stargan unified generative adversarial networks for multi domain image to image translation,False,False
+134057,14,4.9913406570943234e-06,2017,16,multi stage variational auto encoders for coarse to fine image generation,False,False
+136636,14,5.900385674658218e-06,2017,16,real time hand tracking under occlusion from an egocentric rgb d sensor,False,False
+136647,14,5.219968728880732e-06,2017,16,probabilistic image colorization,False,False
+138026,14,4.9913406570943234e-06,2017,16,skepxels spatio temporal image representation of human skeleton joints for action recognition,False,False
+140650,14,5.332415602638739e-06,2017,16,memnet a persistent memory network for image restoration,False,False
+140663,14,5.579883559649306e-06,2017,16,deep learning guided image reconstruction from incomplete data,False,False
+140701,14,4.9913406570943234e-06,2017,16,xunit learning a spatial activation function for efficient image restoration,False,False
+145220,14,4.9913406570943234e-06,2016,16,learning scale variant and scale invariant features for deep image classification,False,False
+146012,14,6.911321133198203e-06,2017,16,multi context attention for human pose estimation,False,False
+151272,14,4.9913406570943234e-06,2017,16,object extent pooling for weakly supervised single shot localization,False,False
+153828,14,8.297381949119324e-06,2016,16,deep residual learning for compressed sensing ct reconstruction via persistent homology analysis,False,False
+157980,14,4.9913406570943234e-06,2017,16,capturing localized image artifacts through a cnn based hyper image representation,False,False
+167788,14,5.379556042266828e-06,2017,16,segmentation of intracranial arterial calcification with deeply supervised residual dropout networks,False,False

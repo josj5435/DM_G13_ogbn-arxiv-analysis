@@ -1,0 +1,15 @@
+{
+  "stage": "final",
+  "frozen_hash": "165dfa0d6405aa3a8fbf09943246e6f0a25413d1b6b65b0095cc409e95760803",
+  "selection": {
+    "alpha": 0.7,
+    "apriori": {
+      "min_count": 20,
+      "confidence": 0.1
+    },
+    "clusters": {
+      "k": 20,
+      "d": 128
+    }
+  }
+}

@@ -1,0 +1,2 @@
+﻿M,empty_baskets,L1,C2_theoretical,C2_observed,L2,pair_operations,min_count,seconds,peak_rss_bytes,included,decided_at,reason
+90941,15916,2991,4471545,189735,5972,768256,20,0.27733599999919534,313532416,True,2026-11-06T12:55:38.279400+00:00,train-only pair counting fits fixed resource budget

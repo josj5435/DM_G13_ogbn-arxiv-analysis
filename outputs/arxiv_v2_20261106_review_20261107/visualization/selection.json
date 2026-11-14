@@ -1,0 +1,45 @@
+{
+  "clusters": [
+    1,
+    13,
+    14
+  ],
+  "papers": [
+    14544,
+    15942,
+    33989,
+    117825,
+    145246
+  ],
+  "eligible_clusters": 20,
+  "eligible_papers": 86940,
+  "isolated_excluded": 4001,
+  "selection_seed": 42,
+  "missing_clusters": 0,
+  "missing_papers": 0,
+  "cutoff": 2017,
+  "model": "k20_d128_s0",
+  "config": {
+    "cutoff": 2017,
+    "mode": "both",
+    "cluster_count": 3,
+    "paper_count": 5,
+    "min_cluster_size": 10,
+    "cluster_hops": 2,
+    "paper_hops": 1,
+    "max_nodes": 80,
+    "max_edges": 250,
+    "selection_seed": 42,
+    "subgraph_seed": 43,
+    "layout_seed": 44,
+    "layout_iterations": 100,
+    "formats": [
+      "png",
+      "svg"
+    ],
+    "dpi": 300,
+    "label_top_k": 10,
+    "node_size_scale": "global_pagerank_q99"
+  },
+  "run_id": "arxiv_v2_20261106"
+}

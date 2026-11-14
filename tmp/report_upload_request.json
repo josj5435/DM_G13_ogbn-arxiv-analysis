@@ -1,0 +1,14 @@
+{
+  "uploads": [
+    {
+      "local_path": "C:\\Users\\josj0\\workspace\\ogbn_arxiv_submission\\output\\pdf\\G13_Report.pdf",
+      "purpose": "create_library_file",
+      "library_artifact_type": "report"
+    },
+    {
+      "local_path": "C:\\Users\\josj0\\workspace\\ogbn_arxiv_submission\\output\\pdf\\G13_Report.md",
+      "purpose": "create_library_file",
+      "library_artifact_type": "report"
+    }
+  ]
+}

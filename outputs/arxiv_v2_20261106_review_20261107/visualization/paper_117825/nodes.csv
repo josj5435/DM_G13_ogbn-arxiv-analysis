@@ -1,0 +1,6 @@
+﻿original_node_id,cluster_id,pagerank,year,label,title,is_center,is_anchor
+4831,12,0.00013262111565908903,2007,28,lattices for distributed source coding jointly gaussian sources and reconstruction of a linear function,False,False
+39447,5,4.641544209887431e-05,2012,19,decentralized stochastic control with partial history sharing a common information approach,False,False
+69183,5,3.916067530500062e-05,2011,21,optimal control strategies in delayed sharing information structures,False,False
+117825,2,4.3622298715097285e-05,2009,28,on the structure of real time encoders and decoders in a multi terminal communication system,True,False
+125301,2,4.9913406570943234e-06,2012,28,on the multiple access channel with asymmetric noisy state information at the encoders,False,False

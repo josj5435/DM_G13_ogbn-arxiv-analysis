@@ -1,0 +1,20 @@
+﻿original_node_id,cluster_id,pagerank,year,label,title,is_center,is_anchor
+5246,9,5.867801960515829e-06,2014,2,multiple environment markov decision processes,False,False
+15942,19,1.2520875731773346e-05,2014,2,variations on the stochastic shortest path problem,True,False
+26173,3,8.234019464379747e-06,2014,9,the odds of staying on budget,False,False
+32764,4,1.5765326272849462e-05,2013,2,what is decidable about partially observable markov decision processes with omega regular objectives,False,False
+41916,17,4.9913406570943234e-06,2017,2,markov automata with multiple objectives,False,False
+52162,9,3.560381082198895e-05,2008,2,multi objective model checking of markov decision processes,False,False
+59322,6,1.2166275132214852e-05,2013,36,looking at mean payoff and total payoff through windows,False,False
+76677,10,4.9913406570943234e-06,2017,27,probabilistic motion planning under temporal tasks and soft constraints,False,False
+87611,3,4.9913406570943234e-06,2016,36,reconciling rationality and stochasticity rich behavioral models in two player games,False,False
+87718,9,4.9913406570943234e-06,2017,2,threshold constraints with guarantees for parity objectives in markov decision processes,False,False
+89641,17,1.5995164016501896e-05,2014,2,percentile queries in multi dimensional markov decision processes,False,False
+97608,3,4.9913406570943234e-06,2017,2,maximizing the conditional expected reward for reaching the goal,False,False
+109285,17,8.884637356059169e-06,2013,2,computing quantiles in markov reward models,False,False
+109998,6,6.519018996747343e-06,2014,36,expectations or guarantees i want it all a crossroad between games and mdps,False,False
+111519,9,4.9913406570943234e-06,2017,2,infinite duration bidding games,False,False
+129263,9,6.898815747140737e-06,2015,2,non zero sum games for reactive synthesis,False,False
+131153,6,8.0841405962355e-06,2014,36,to reach or not to reach efficient algorithms for total payoff games,False,False
+143176,17,4.9913406570943234e-06,2016,33,efficient quantile computation in markov chains via counting problems for parikh images,False,False
+160310,6,1.615651031430405e-05,2013,36,meet your expectations with guarantees beyond worst case synthesis in quantitative games,False,False

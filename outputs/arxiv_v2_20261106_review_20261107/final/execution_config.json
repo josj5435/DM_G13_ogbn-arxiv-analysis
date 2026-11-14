@@ -1,0 +1,122 @@
+{
+  "dataset": "ogbn-arxiv",
+  "run_id": "arxiv_v2_20261106",
+  "cutoff": 2017,
+  "evaluation_year": 2018,
+  "threads": 4,
+  "preprocessing": {
+    "remove_duplicates": true,
+    "remove_self_loops": true,
+    "remove_reversed_year": true,
+    "valid_year_range": [
+      1800,
+      2026
+    ],
+    "reverse_edges": false
+  },
+  "pagerank": {
+    "alphas": [
+      0.7,
+      0.85,
+      0.95
+    ],
+    "tol": 1e-08,
+    "max_iter": 1000,
+    "relevance": "log2(1+future_citations)",
+    "gain": "linear",
+    "tie": "node_id_ascending"
+  },
+  "clusters": {
+    "ks": [
+      20,
+      40,
+      60
+    ],
+    "dimensions": [
+      128,
+      64,
+      32,
+      16
+    ],
+    "variance_min": 0.9,
+    "silhouette_tolerance": 0.01,
+    "silhouette_sample": 2000,
+    "silhouette_seed": 101,
+    "n_init": 10,
+    "max_iter": 300,
+    "tol": 0.0001,
+    "validation_seed": 0,
+    "final_seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "pca_solver": "full",
+    "whiten": false,
+    "post_pca_normalize": false,
+    "pair_seed": 202,
+    "pair_max": 100000,
+    "reference_bins": [
+      1,
+      5,
+      10,
+      20
+    ]
+  },
+  "apriori": {
+    "basic_counts": [
+      100,
+      200,
+      500
+    ],
+    "expansion_counts": [
+      20,
+      50
+    ],
+    "confidences": [
+      0.1,
+      0.2,
+      0.3
+    ],
+    "max_len": 2,
+    "pilot_seconds": 1800,
+    "pilot_rss_bytes": 8589934592,
+    "empty_baskets_in_M": true
+  },
+  "queries": {
+    "min_refs": 5,
+    "mask_ratio": 0.2,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "k": 10
+  },
+  "visualization": {
+    "cutoff": 2017,
+    "mode": "both",
+    "cluster_count": 3,
+    "paper_count": 5,
+    "min_cluster_size": 10,
+    "cluster_hops": 2,
+    "paper_hops": 1,
+    "max_nodes": 80,
+    "max_edges": 250,
+    "selection_seed": 42,
+    "subgraph_seed": 43,
+    "layout_seed": 44,
+    "layout_iterations": 100,
+    "formats": [
+      "png",
+      "svg"
+    ],
+    "dpi": 300,
+    "label_top_k": 10,
+    "node_size_scale": "global_pagerank_q99"
+  }
+}

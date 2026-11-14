@@ -1,0 +1,46 @@
+[
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/ogbn_arxiv_submission/G13_Report.pdf",
+    "file_id": "file_00000000c28482069219428f4e6a9454",
+    "library_file_id": "libfile_d9f480c0574c81919561078c6c417133",
+    "file_name": "G13_Report.pdf",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "6af807e3cac4819181519b7f87b53e3c",
+    "mime_type": "application/pdf",
+    "library_artifact_type": "report",
+    "file_size_bytes": 754743,
+    "original_local_path": "C:\\Users\\josj0\\workspace\\ogbn_arxiv_submission\\output\\pdf\\G13_Report.pdf",
+    "local_xattr_status": "unsupported by os.setxattr on Windows; Library save succeeded"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/ogbn_arxiv_submission/G13_Report.md",
+    "file_id": "file_000000001b208206b37b9a653e662ce4",
+    "library_file_id": "libfile_1795b1dc7c6c8191b1a67b6fe67e24d3",
+    "file_name": "G13_Report.md",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "6af807e3cac4819181519b7f87b53e3c",
+    "mime_type": "text/markdown",
+    "library_artifact_type": "report",
+    "file_size_bytes": 31104,
+    "original_local_path": "C:\\Users\\josj0\\workspace\\ogbn_arxiv_submission\\output\\pdf\\G13_Report.md",
+    "local_xattr_status": "unsupported by os.setxattr on Windows; Library save succeeded"
+  }
+]

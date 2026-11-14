@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="288pt" viewBox="0 0 792 288" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 288 
+L 792 288 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 60.922344 246.917656 
+L 393.84 246.917656 
+L 393.84 26.16 
+L 60.922344 26.16 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 76.054964 246.917656 
+L 210.567149 246.917656 
+L 210.567149 36.672269 
+L 76.054964 36.672269 
+z
+" clip-path="url(#p37400b360f)" style="fill: #225a99"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 244.195195 246.917656 
+L 378.707379 246.917656 
+L 378.707379 243.322177 
+L 244.195195 243.322177 
+z
+" clip-path="url(#p37400b360f)" style="fill: #a7b2c4"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m6e472e5e0b" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m6e472e5e0b" x="143.311057" y="246.917656" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="143.311057" y="261.516094" transform="rotate(-0 143.311057 261.516094)">Observed</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m6e472e5e0b" x="311.451287" y="246.917656" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="311.451287" y="261.516094" transform="rotate(-0 311.451287 261.516094)">Random baseline</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_3">
+      <defs>
+       <path id="m42e342c2c2" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m42e342c2c2" x="60.922344" y="246.917656" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.922344" y="250.716484" transform="rotate(-0 53.922344 250.716484)">0.000</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m42e342c2c2" x="60.922344" y="198.427233" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.922344" y="202.226061" transform="rotate(-0 53.922344 202.226061)">0.001</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m42e342c2c2" x="60.922344" y="149.93681" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.922344" y="153.735638" transform="rotate(-0 53.922344 153.735638)">0.002</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m42e342c2c2" x="60.922344" y="101.446386" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.922344" y="105.245214" transform="rotate(-0 53.922344 105.245214)">0.003</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m42e342c2c2" x="60.922344" y="52.955963" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.922344" y="56.754791" transform="rotate(-0 53.922344 56.754791)">0.004</text>
+     </g>
+    </g>
+    <g id="text_8">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="18.891875" y="136.538828" transform="rotate(-90 18.891875 136.538828)">IPW mean Jaccard: same − different</text>
+    </g>
+   </g>
+   <g id="patch_5">
+    <path d="M 60.922344 246.917656 
+L 60.922344 26.16 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 60.922344 246.917656 
+L 393.84 246.917656 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="227.381172" y="20.16" transform="rotate(-0 227.381172 20.16)">Bibliographic | 2018</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 448.282344 246.917656 
+L 781.2 246.917656 
+L 781.2 26.16 
+L 448.282344 26.16 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 463.414964 246.917656 
+L 597.927149 246.917656 
+L 597.927149 36.672269 
+L 463.414964 36.672269 
+z
+" clip-path="url(#p1dee4852b2)" style="fill: #225a99"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 631.555195 246.917656 
+L 766.067379 246.917656 
+L 766.067379 165.392818 
+L 631.555195 165.392818 
+z
+" clip-path="url(#p1dee4852b2)" style="fill: #a7b2c4"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_3">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m6e472e5e0b" x="530.671057" y="246.917656" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="530.671057" y="261.516094" transform="rotate(-0 530.671057 261.516094)">Observed</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m6e472e5e0b" x="698.811287" y="246.917656" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="698.811287" y="261.516094" transform="rotate(-0 698.811287 261.516094)">Random baseline</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_6">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m42e342c2c2" x="448.282344" y="246.917656" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="441.282344" y="250.716484" transform="rotate(-0 441.282344 250.716484)">0.00</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m42e342c2c2" x="448.282344" y="202.105823" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="441.282344" y="205.904651" transform="rotate(-0 441.282344 205.904651)">0.05</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m42e342c2c2" x="448.282344" y="157.293989" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="441.282344" y="161.092817" transform="rotate(-0 441.282344 161.092817)">0.10</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m42e342c2c2" x="448.282344" y="112.482156" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="441.282344" y="116.280984" transform="rotate(-0 441.282344 116.280984)">0.15</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m42e342c2c2" x="448.282344" y="67.670322" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end" x="441.282344" y="71.469151" transform="rotate(-0 441.282344 71.469151)">0.20</text>
+     </g>
+    </g>
+    <g id="text_17">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="412.614375" y="136.538828" transform="rotate(-90 412.614375 136.538828)">Same-cluster directed citation fraction</text>
+    </g>
+   </g>
+   <g id="patch_10">
+    <path d="M 448.282344 246.917656 
+L 448.282344 26.16 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 448.282344 246.917656 
+L 781.2 246.917656 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="614.741172" y="20.16" transform="rotate(-0 614.741172 20.16)">Direct Citation | 2018</text>
+   </g>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #555555" transform="translate(15.84 276.142086)">Source: OGB | fixed 100,000 pairs; k=20, d=128 | final/cluster_citation_patterns.csv</text>
+   <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #555555" transform="translate(15.84 284.544)">IPW mean = mean of ordinary set Jaccard weighted by inverse pair inclusion probability; not weighted-item Jaccard.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p37400b360f">
+   <rect x="60.922344" y="26.16" width="332.917656" height="220.757656"/>
+  </clipPath>
+  <clipPath id="p1dee4852b2">
+   <rect x="448.282344" y="26.16" width="332.917656" height="220.757656"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,2 @@
+# Preserve the exact bytes used by SHA-256 experiment manifests on every OS.
+* -text

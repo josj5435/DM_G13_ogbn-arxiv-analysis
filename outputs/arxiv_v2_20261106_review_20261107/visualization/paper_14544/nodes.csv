@@ -1,0 +1,6 @@
+﻿original_node_id,cluster_id,pagerank,year,label,title,is_center,is_anchor
+14544,15,9.842091897296803e-06,2013,7,enhancement of a novel method for mutational disease prediction using bioinformatics techniques and backpropagation algorithm,True,False
+88897,15,1.673155624196101e-05,2013,7,novel method for mutational disease prediction using bioinformatics techniques and backpropagation algorithm,False,False
+108513,15,6.155986812611837e-06,2015,7,novel mining of cancer via mutation in tumor protein p53 using quick propagation network,False,False
+159019,15,6.42773758296971e-06,2013,7,new approach for prediction pre cancer via detecting mutated in tumor protein p53,False,False
+164357,15,4.9913406570943234e-06,2016,24,effective data mining technique for classification cancers via mutations in gene using neural network,False,False

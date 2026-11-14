@@ -1,0 +1,81 @@
+﻿original_node_id,cluster_id,pagerank,year,label,title,is_center,is_anchor
+2372,1,3.7740196885303526e-05,2012,28,throughput optimal policies for energy harvesting wireless transmitters with non ideal circuit power,False,False
+2773,1,1.5913611282838212e-05,2013,28,spatial throughput of mobile ad hoc networks powered by energy harvesting,False,False
+5425,1,4.9913406570943234e-06,2016,28,information exchange in randomly deployed dense wsns with wireless energy harvesting capabilities,False,False
+5440,1,4.9913406570943234e-06,2015,8,dynamic sleep control in green relay assisted networks for energy saving and qos improving,False,False
+6685,1,5.496067861340912e-06,2016,28,optimal energy and data routing in networks with energy cooperation,False,False
+11565,1,4.9913406570943234e-06,2016,28,joint energy bandwidth allocation for multi user channels with cooperating hybrid energy nodes,False,False
+16073,1,4.9913406570943234e-06,2015,8,downlink power control in two tier cellular networks with energy harvesting small cells as stochastic games,False,False
+17540,1,4.9913406570943234e-06,2016,28,stochastic online control for energy harvesting wireless networks with battery imperfections,False,False
+18673,1,1.1021242086492932e-05,2015,28,greendelivery proactive content caching and push with energy harvesting based small cells,False,False
+20195,1,4.9913406570943234e-06,2016,28,latency optimal uplink scheduling policy in training based large scale antenna systems,False,False
+31829,1,4.9913406570943234e-06,2015,19,data retrieval time for energy harvesting wireless sensor networks,False,False
+32759,1,4.9913406570943234e-06,2012,28,optimal transmission policy for cooperative transmission with energy harvesting and battery operated sensor nodes,False,False
+35258,1,1.3569360479116157e-05,2012,28,throughput maximization for an energy harvesting communication system with processing cost,False,False
+38561,1,1.5776258004575196e-05,2012,28,medium access control protocols for wireless sensor networks with energy harvesting,False,False
+41896,1,7.435037736255771e-06,2014,28,wireless powered cooperative communications via a hybrid relay,False,False
+42648,1,4.9913406570943234e-06,2014,8,power allocation in the energy harvesting full duplex gaussian relay channels,False,False
+44815,1,4.9913406570943234e-06,2014,28,power allocation and transmitter switching for broadcasting with multiple energy harvesting transmitters,False,False
+46603,1,4.104780517603329e-05,2015,28,energy harvesting wireless communications a review of recent advances,False,False
+48105,1,5.379556042266828e-06,2016,24,online learning schemes for power allocation in energy harvesting communications,False,False
+49387,1,5.769524698971023e-06,2016,28,battery powered devices in wpcns,False,False
+50012,1,0.00013895895590480093,2010,28,optimum transmission policies for battery limited energy harvesting nodes,False,False
+50614,1,2.513704570893591e-05,2014,28,information and energy cooperation in cognitive radio networks,False,False
+50803,1,5.39624104801084e-06,2016,28,decentralized transmission policies for energy harvesting devices,False,False
+52588,1,7.293714166642334e-05,2010,28,optimal packet scheduling on an energy harvesting broadcast link,False,False
+54732,1,5.6901283504048314e-06,2012,8,proportional fair resource allocation on an energy harvesting downlink part ii algorithms,False,False
+57855,1,8.814061768909588e-06,2012,28,energy efficient transmission for wireless energy harvesting nodes,False,False
+60005,1,5.574419998633507e-06,2016,28,on optimal policies in full duplex wireless powered communication networks,False,False
+60735,1,7.278151150710265e-06,2015,28,information and energy cooperation in ofdm relaying protocols and optimization,False,False
+61343,1,4.9913406570943234e-06,2016,28,sensor selection and power allocation strategies for energy harvesting wireless sensor networks,False,False
+65134,1,6.315054204439065e-06,2013,28,finite horizon online lazy scheduling with energy harvesting transmitters over fading channels,False,False
+67938,1,5.5383714271101244e-06,2016,28,online power control optimization for wireless transmission with energy harvesting and storage,False,False
+76429,1,6.653375912011166e-06,2011,28,optimal offline broadcast scheduling with an energy harvesting transmitter,False,False
+80330,1,5.664747875443176e-06,2017,28,exploiting non causal cpu state information for energy efficient mobile cooperative computing,False,False
+83347,1,6.3111414691288625e-06,2015,28,on information and energy cooperation in energy harvesting cognitive radio,False,False
+83470,1,1.1238119723919982e-05,2014,28,energy harvesting broadband communication systems with processing energy cost,False,False
+84802,1,2.564166218096935e-05,2013,28,energy cooperation in energy harvesting communications,False,True
+87527,1,5.365460473006947e-05,2013,8,opportunistic wireless energy harvesting in cognitive radio networks,False,False
+89596,1,5.217419028515236e-06,2013,18,delay optimal scheduling for energy harvesting based communications,False,False
+92714,1,5.796534658319673e-06,2016,28,optimal offline and competitive online strategies for transmitter receiver energy harvesting,False,False
+92854,1,9.769301510270773e-06,2014,28,energy efficient antenna selection and power allocation for large scale multiple antenna systems with hybrid energy supply,False,False
+92910,1,4.9913406570943234e-06,2016,28,beamforming for simultaneous wireless information and power transfer in two way relay channels,False,False
+93522,1,4.9913406570943234e-06,2015,8,energy sharing for multiple sensor nodes with finite buffers,False,False
+94132,1,4.706181119077804e-05,2013,28,simultaneous information and power transfer for broadband wireless systems,False,False
+94148,1,9.158042570487868e-06,2015,28,comp meets smart grid a new communication and energy cooperation paradigm,False,False
+94948,1,2.7698541144059662e-05,2013,28,energy efficient resource allocation in ofdma systems with hybrid energy harvesting base station,False,False
+100881,1,4.9913406570943234e-06,2017,28,multi agent reinforcement learning for energy harvesting two hop communications with full cooperation,False,False
+102009,1,3.883031182848969e-05,2014,28,power allocation strategies in energy harvesting wireless cooperative networks,False,False
+103247,1,6.495771005295157e-06,2015,28,energy harvesting networks with energy cooperation procrastinating policies,False,False
+104552,1,4.9913406570943234e-06,2013,28,unlocking energy neutrality in energy harvesting wireless sensor networks an approach based on distributed compressed sensing,False,False
+105291,1,1.4991076104577495e-05,2013,28,optimal power allocation for energy harvesting and power grid coexisting wireless communication systems,False,False
+108583,1,7.796245121326834e-06,2014,28,power allocation for conventional and buffer aided link adaptive relaying systems with energy harvesting nodes,False,False
+111127,1,6.427009177995083e-06,2014,28,multiuser joint energy bandwidth allocation with energy harvesting part i optimum algorithm multiple point to point channels,False,False
+111264,1,0.00012249759195545173,2013,28,relaying protocols for wireless energy harvesting and information processing,False,False
+115352,1,6.986844895928498e-06,2015,28,a general utility optimization framework for energy harvesting based wireless communications,False,False
+116111,1,0.00024329662912814294,2010,28,optimal packet scheduling in an energy harvesting communication system,False,False
+122596,1,4.253692181932036e-05,2012,28,optimal save then transmit protocol for energy harvesting wireless transmitters,False,False
+124513,1,0.00029155130402890847,2010,8,optimal energy management policies for energy harvesting sensor nodes,False,False
+129654,1,4.9913406570943234e-06,2012,8,proportional fair resource allocation on an energy harvesting downlink part i structure,False,False
+131108,1,5.490474723744686e-06,2014,28,trading wireless information and power transfer relay selection to minimize the outage probability,False,False
+133697,1,5.240907690419505e-06,2014,28,optimal spectrum access for a rechargeable cognitive radio user based on energy buffer state,False,False
+136542,1,4.9913406570943234e-06,2016,28,offline delay optimal transmission for energy harvesting nodes,False,False
+141717,1,1.5705561499250205e-05,2013,28,optimal scheduling and power allocation for two hop energy harvesting communication systems,False,False
+142482,1,5.2970602729571595e-06,2014,28,power optimal feedback based random spectrum access for an energy harvesting cognitive user,False,False
+147076,1,8.139379359350338e-06,2015,28,universally near optimal online power control for energy harvesting nodes,False,False
+147181,1,6.089763868843913e-06,2016,28,optimum transmission policies for energy harvesting sensor networks powered by a mobile control center,False,False
+151882,1,1.81853754878564e-05,2014,28,wireless information and power transfer with full duplex relaying,False,False
+153255,1,5.961231597138642e-06,2013,28,optimal scheduling for energy harvesting transmitters with hybrid energy storage,False,False
+153649,1,1.0770356489816716e-05,2013,28,wireless compressive sensing for energy harvesting sensor nodes,False,False
+154407,1,9.598611145569762e-05,2012,28,enabling wireless power transfer in cellular networks architecture modeling and deployment,False,False
+154463,1,5.150156041937621e-06,2017,28,finite horizon energy efficient scheduling with energy harvesting transmitters over fading channels,False,False
+154893,1,6.800732012536237e-06,2012,28,communicating using an energy harvesting transmitter optimum policies under energy storage losses,False,False
+154995,1,4.9913406570943234e-06,2015,8,energy management and cross layer optimization for wireless sensor network powered by heterogeneous energy sources,False,False
+158915,1,5.2832021684646254e-06,2014,28,wireless communication system with rf based energy harvesting from information theory to green system,False,False
+161196,1,4.9913406570943234e-06,2016,8,a secure multiple access scheme for rechargeable wireless sensors in the presence of an eavesdropper,False,False
+161638,1,5.224269888197826e-06,2013,28,towards energy neutrality in energy harvesting wireless sensor networks a case for distributed compressive sensing,False,False
+163121,1,5.240907690419505e-06,2017,28,non orthogonal multiple access schemes in wireless powered communication networks,False,False
+163676,1,1.2993589569333055e-05,2012,28,optimal transmission policies for energy harvesting two hop networks,False,False
+165459,1,6.8587756869193335e-06,2014,28,power allocation for energy harvesting transmitter with causal information,False,False
+166204,1,5.577823185645431e-06,2016,8,panda neighbor discovery on a power harvesting budget,False,False
+166856,1,3.280039889033767e-05,2012,28,broadcasting with an energy harvesting rechargeable transmitter,False,False

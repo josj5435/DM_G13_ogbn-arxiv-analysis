@@ -1,0 +1,32 @@
+{
+  "mode": "paper",
+  "target": 33989,
+  "anchor": null,
+  "population_nodes": 2,
+  "display_nodes": 2,
+  "candidate_edges": 1,
+  "display_edges": 1,
+  "omitted_nodes": 0,
+  "omitted_edges": 0,
+  "required_edges": 1,
+  "is_partial": false,
+  "no_internal_citation": false,
+  "incoming_display": 0,
+  "outgoing_display": 1,
+  "view_id": "paper_33989",
+  "cutoff": 2017,
+  "run_id": "arxiv_v2_20261106",
+  "graph_hash": "3fcfd45b7747d16c8f40741ab6b047c2522bcf17aa1e6cf16ff146a3c5cea95f",
+  "cluster_hash": "ce00645e0776f218cd564e4570c8e4fcd29d241d78b570f193d120303deb4965",
+  "config_hash": "165dfa0d6405aa3a8fbf09943246e6f0a25413d1b6b65b0095cc409e95760803",
+  "seeds": {
+    "selection_seed": 42,
+    "subgraph_seed": 43,
+    "layout_seed": 44
+  },
+  "layout_iterations": 100,
+  "pagerank_q99": 8.409116129162141e-05,
+  "unassigned_nodes": 0,
+  "networkx_version": "3.4.2",
+  "matplotlib_version": "3.11.2"
+}

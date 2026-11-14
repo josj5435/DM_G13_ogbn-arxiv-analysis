@@ -1,0 +1,6 @@
+﻿M,empty_baskets,L1,C2_theoretical,C2_observed,L2,pair_operations,min_count,seconds,peak_rss_bytes,included,decided_at,reason
+69499,13750,137,9316,3272,102,62483,100,0.1064584999694489,257019904,True,2026-11-06T12:49:45.881955+00:00,train-only pair counting fits fixed resource budget
+69499,13750,49,1176,682,24,32499,200,0.09978930000215769,242966528,True,2026-11-06T12:49:45.979882+00:00,train-only pair counting fits fixed resource budget
+69499,13750,13,78,78,1,10010,500,0.09541589999571443,244334592,True,2026-11-06T12:49:46.077049+00:00,train-only pair counting fits fixed resource budget
+69499,13750,1814,1644391,68250,2317,292579,20,0.14035579998744652,250056704,True,2026-11-06T12:49:46.216285+00:00,train-only pair counting fits fixed resource budget
+69499,13750,434,93961,15075,398,130426,50,0.11134679999668151,250130432,True,2026-11-06T12:49:46.327066+00:00,train-only pair counting fits fixed resource budget

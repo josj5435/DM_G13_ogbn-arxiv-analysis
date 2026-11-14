@@ -1,0 +1,8 @@
+{
+  "n_nodes": 169343,
+  "matched": 169343,
+  "matched_fraction": 1.0,
+  "duplicate_metadata_ids": 0,
+  "join_key": "MAG ID -> original node_id",
+  "metadata_license": "Original titles/abstracts remain attributed to their source papers; no blanket relicensing assumed"
+}

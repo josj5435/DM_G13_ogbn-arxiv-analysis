@@ -1,0 +1,16 @@
+﻿method,mask_seed,n_queries,n_candidates,training_seconds,inference_and_metric_seconds,total_seconds,peak_rss_bytes,metric_replay_match,scope
+B2,0,15072,90941,0.005956500011961907,0.32464800000889227,0.3306045000208542,253497344,True,separate whole-method inference plus identical metric evaluation; training measured once and shared across masks
+A2,0,15072,90941,0.708216099999845,0.5564772000070661,1.2646933000069112,234622976,True,separate whole-method inference plus identical metric evaluation; training measured once and shared across masks
+A3,0,15072,90941,0.7141726000118069,0.5627882999833673,1.2769608999951743,234704896,True,separate whole-method inference plus identical metric evaluation; training measured once and shared across masks
+B2,1,15072,90941,0.005956500011961907,0.3221746999770403,0.3281311999890022,237719552,True,separate whole-method inference plus identical metric evaluation; training measured once and shared across masks
+A2,1,15072,90941,0.708216099999845,0.5437706000520848,1.2519867000519298,237776896,True,separate whole-method inference plus identical metric evaluation; training measured once and shared across masks
+A3,1,15072,90941,0.7141726000118069,0.5633258000016212,1.2774984000134282,237842432,True,separate whole-method inference plus identical metric evaluation; training measured once and shared across masks
+B2,2,15072,90941,0.005956500011961907,0.31652330001816154,0.32247980003012344,236494848,True,separate whole-method inference plus identical metric evaluation; training measured once and shared across masks
+A2,2,15072,90941,0.708216099999845,0.5577798999729566,1.2659959999728017,237129728,True,separate whole-method inference plus identical metric evaluation; training measured once and shared across masks
+A3,2,15072,90941,0.7141726000118069,0.5694771999842487,1.2836497999960557,236843008,True,separate whole-method inference plus identical metric evaluation; training measured once and shared across masks
+B2,3,15072,90941,0.005956500011961907,0.3191996999667026,0.3251561999786645,237645824,True,separate whole-method inference plus identical metric evaluation; training measured once and shared across masks
+A2,3,15072,90941,0.708216099999845,0.5267382999882102,1.2349543999880552,237846528,True,separate whole-method inference plus identical metric evaluation; training measured once and shared across masks
+A3,3,15072,90941,0.7141726000118069,0.5545028999913484,1.2686755000031553,237940736,True,separate whole-method inference plus identical metric evaluation; training measured once and shared across masks
+B2,4,15072,90941,0.005956500011961907,0.3082911999663338,0.3142476999782957,237969408,True,separate whole-method inference plus identical metric evaluation; training measured once and shared across masks
+A2,4,15072,90941,0.708216099999845,0.5308716999716125,1.2390877999714576,238034944,True,separate whole-method inference plus identical metric evaluation; training measured once and shared across masks
+A3,4,15072,90941,0.7141726000118069,0.547256899997592,1.261429500009399,237948928,True,separate whole-method inference plus identical metric evaluation; training measured once and shared across masks

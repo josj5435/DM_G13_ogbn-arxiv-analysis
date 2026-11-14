@@ -1,0 +1,152 @@
+{
+  "selection": {
+    "alpha": 0.7,
+    "apriori": {
+      "min_count": 20,
+      "confidence": 0.1
+    },
+    "clusters": {
+      "k": 20,
+      "d": 128
+    }
+  },
+  "config": {
+    "dataset": "ogbn-arxiv",
+    "run_id": "arxiv_v2_20261106",
+    "cutoff": 2016,
+    "evaluation_year": 2017,
+    "threads": 4,
+    "preprocessing": {
+      "remove_duplicates": true,
+      "remove_self_loops": true,
+      "remove_reversed_year": true,
+      "valid_year_range": [
+        1800,
+        2026
+      ],
+      "reverse_edges": false
+    },
+    "pagerank": {
+      "alphas": [
+        0.7,
+        0.85,
+        0.95
+      ],
+      "tol": 1e-08,
+      "max_iter": 1000,
+      "relevance": "log2(1+future_citations)",
+      "gain": "linear",
+      "tie": "node_id_ascending"
+    },
+    "clusters": {
+      "ks": [
+        20,
+        40,
+        60
+      ],
+      "dimensions": [
+        128,
+        64,
+        32,
+        16
+      ],
+      "variance_min": 0.9,
+      "silhouette_tolerance": 0.01,
+      "silhouette_sample": 2000,
+      "silhouette_seed": 101,
+      "n_init": 10,
+      "max_iter": 300,
+      "tol": 0.0001,
+      "validation_seed": 0,
+      "final_seeds": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "pca_solver": "full",
+      "whiten": false,
+      "post_pca_normalize": false,
+      "pair_seed": 202,
+      "pair_max": 100000,
+      "reference_bins": [
+        1,
+        5,
+        10,
+        20
+      ]
+    },
+    "apriori": {
+      "basic_counts": [
+        100,
+        200,
+        500
+      ],
+      "expansion_counts": [
+        20,
+        50
+      ],
+      "confidences": [
+        0.1,
+        0.2,
+        0.3
+      ],
+      "max_len": 2,
+      "pilot_seconds": 1800,
+      "pilot_rss_bytes": 8589934592,
+      "empty_baskets_in_M": true
+    },
+    "queries": {
+      "min_refs": 5,
+      "mask_ratio": 0.2,
+      "seeds": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "k": 10
+    },
+    "visualization": {
+      "cutoff": 2017,
+      "mode": "both",
+      "cluster_count": 3,
+      "paper_count": 5,
+      "min_cluster_size": 10,
+      "cluster_hops": 2,
+      "paper_hops": 1,
+      "max_nodes": 80,
+      "max_edges": 250,
+      "selection_seed": 42,
+      "subgraph_seed": 43,
+      "layout_seed": 44,
+      "layout_iterations": 100,
+      "formats": [
+        "png",
+        "svg"
+      ],
+      "dpi": 300,
+      "label_top_k": 10,
+      "node_size_scale": "global_pagerank_q99"
+    }
+  },
+  "frozen_at": "2026-11-06T12:52:56.649204+00:00",
+  "validation_config_hash": "aeeed75dda97da8d09d428781cad248f9404e2dbad93a2b2132255ef7db26df7",
+  "processed_manifest_hash": "871cdb55eda5c906c7b3db2a85112db33022ce76bc6f1a618cd630ef6c60a158",
+  "split_hashes": {
+    "queries_2016_0.parquet": "851c353bc9f3abb78cd3df3dd205af7e701449e773d8d6448407d8a7e1873293",
+    "queries_2016_1.parquet": "8cb5fccf89f95dee51ddb107b46df3df766ced217a63fbd4980c6bf373df372d",
+    "queries_2016_2.parquet": "1103629b3af294a69b5c12a1a8c9fc749772d3012af173f171041adfbfd404b5",
+    "queries_2016_3.parquet": "417ee02a9b863803d2acd2a10dbab84c7d4ccd33d1110353111466139ed6bc3e",
+    "queries_2016_4.parquet": "c6dccf221f975553f944e6cd019af35a5488d7df6cbb7df1de1bf4dddef54fa1",
+    "queries_2017_0.parquet": "24ebe0ac8a38c9666c64110202ed2ed62aca83033f25903b1127166c5e0eaae5",
+    "queries_2017_1.parquet": "17d1a04ad7574a858e643be9198ff1ede066c40c690369aabc3d345d29987f54",
+    "queries_2017_2.parquet": "744e492c1e00b727d066ddfc583ee8573b8af59bad82095746f5a190d85d2f82",
+    "queries_2017_3.parquet": "9a115cf00988549d689b2a7d20846d22410bddd6208fa96c46e5c7c8e5930975",
+    "queries_2017_4.parquet": "6fffe2601e9f028eedc3c139c6284d5de6eb3153fc3586217b232f2a139db908"
+  },
+  "input_edges_hash": "01a4f63a16e07dae0490cd686e0465156c1aec38a28d830e03bf3b4dac3ba78f",
+  "criterion": "2017 only: PR NDCG; A2 five-mask mean Recall then NDCG/count/conf; shared-128D silhouette with variance filter"
+}

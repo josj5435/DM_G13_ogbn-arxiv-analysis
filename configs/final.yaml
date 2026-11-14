@@ -1,0 +1,5 @@
+run_id: arxiv_v2_20261106
+frozen_config: outputs/arxiv_v2_20261106/frozen.json
+cutoff: 2017
+evaluation_year: 2018
+selection_source: validation_only

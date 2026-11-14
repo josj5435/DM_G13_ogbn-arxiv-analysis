@@ -1,0 +1,70 @@
+{
+  "strata": [
+    {
+      "stratum": "0-0",
+      "population": 69119403,
+      "sample_size": 10000,
+      "inclusion_probability": 0.0001446771755247944
+    },
+    {
+      "stratum": "0-1",
+      "population": 81694584,
+      "sample_size": 10000,
+      "inclusion_probability": 0.00012240713533714792
+    },
+    {
+      "stratum": "0-2",
+      "population": 68290464,
+      "sample_size": 10000,
+      "inclusion_probability": 0.00014643332925662943
+    },
+    {
+      "stratum": "0-3",
+      "population": 27231528,
+      "sample_size": 10000,
+      "inclusion_probability": 0.0003672214060114438
+    },
+    {
+      "stratum": "1-1",
+      "population": 24133878,
+      "sample_size": 10000,
+      "inclusion_probability": 0.00041435528927427244
+    },
+    {
+      "stratum": "1-2",
+      "population": 40353984,
+      "sample_size": 10000,
+      "inclusion_probability": 0.0002478070071098804
+    },
+    {
+      "stratum": "1-3",
+      "population": 16091568,
+      "sample_size": 10000,
+      "inclusion_probability": 0.0006214434789698555
+    },
+    {
+      "stratum": "2-2",
+      "population": 16863528,
+      "sample_size": 10000,
+      "inclusion_probability": 0.0005929957242636298
+    },
+    {
+      "stratum": "2-3",
+      "population": 13451328,
+      "sample_size": 10000,
+      "inclusion_probability": 0.0007434210213296413
+    },
+    {
+      "stratum": "3-3",
+      "population": 2680770,
+      "sample_size": 10000,
+      "inclusion_probability": 0.0037302715264644114
+    }
+  ],
+  "n_population": 26830,
+  "n_pairs": 100000,
+  "sha256": "b84b3b40cae065a83c9a497024ade25316e50175c1d45213d9670773cde940e0",
+  "seed": 202,
+  "pair_similarity": "ordinary unweighted set Jaccard: intersection/union",
+  "group_aggregation": "inverse-inclusion-probability weighted mean of pair Jaccard values; not weighted-item Jaccard"
+}

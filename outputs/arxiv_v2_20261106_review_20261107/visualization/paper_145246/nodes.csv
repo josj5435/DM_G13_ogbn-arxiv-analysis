@@ -1,0 +1,25 @@
+﻿original_node_id,cluster_id,pagerank,year,label,title,is_center,is_anchor
+12078,5,7.263549715232076e-06,2017,16,computer vision for autonomous vehicles problems datasets and state of the art,False,False
+25208,0,0.0019445176782927882,2014,16,very deep convolutional networks for large scale image recognition,False,False
+27344,14,6.357044233263058e-06,2016,16,std2p rgbd semantic segmentation using spatio temporal data driven pooling,False,False
+35314,14,6.311729600096914e-06,2017,16,scannet richly annotated 3d reconstructions of indoor scenes,False,False
+42810,13,5.224269888197826e-06,2017,16,a fully end to end deep learning approach for real time simultaneous 3d reconstruction and material recognition,False,False
+54179,17,0.0001737511209389714,2012,16,efficient inference in fully connected crfs with gaussian edge potentials,False,False
+57508,14,4.9913406570943234e-06,2017,16,dense rgb d semantic mapping with pixel voxel neural network,False,False
+77340,14,5.3089714267809184e-06,2017,27,dual quadrics from object detection boundingboxes as landmark representations in slam,False,False
+96323,14,0.00015752527878870772,2014,16,learning rich features from rgb d images for object detection and segmentation,False,False
+98786,0,0.001729107187870966,2014,16,caffe convolutional architecture for fast feature embedding,False,False
+102103,14,1.8293684105769208e-05,2015,16,scenenet understanding real world indoor scenes with synthetic data,False,False
+109539,0,4.9913406570943234e-06,2017,16,pointwise convolutional neural networks,False,False
+120365,14,5.0061059195241435e-05,2013,16,indoor semantic segmentation using depth information,False,False
+127933,11,0.0003937987457685802,2014,16,microsoft coco common objects in context,False,False
+127965,10,9.734549046572761e-05,2015,16,learning deconvolution network for semantic segmentation,False,False
+129267,15,9.63367892694563e-05,2014,16,predicting depth surface normals and semantic labels with a common multi scale convolutional architecture,False,False
+141931,0,6.611717385639957e-06,2017,16,da rnn semantic mapping with data associated recurrent neural networks,False,False
+145246,0,9.08454427104779e-06,2016,16,semanticfusion dense 3d semantic mapping with convolutional neural networks,True,False
+154458,10,5.833367979674304e-06,2017,16,multi view deep learning for consistent semantic mapping with rgb d cameras,False,False
+157956,0,4.9913406570943234e-06,2017,27,sparse bayesian inference for dense semantic mapping,False,False
+159267,14,4.9913406570943234e-06,2017,16,semantic texture for robust dense tracking,False,False
+163223,14,4.9913406570943234e-06,2017,27,segicp dsr dense semantic scene reconstruction and registration,False,False
+166425,0,0.0007777862598679212,2014,16,fully convolutional networks for semantic segmentation,False,False
+168369,14,4.9913406570943234e-06,2016,16,visual inertial scene representations,False,False

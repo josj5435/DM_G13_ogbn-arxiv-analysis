@@ -1,0 +1,10 @@
+{
+  "M": 90941,
+  "empty_baskets": 15916,
+  "L1": 2991,
+  "C2_theoretical": 4471545,
+  "C2_observed": 189735,
+  "L2": 5972,
+  "pair_operations": 768256,
+  "min_count": 20
+}

@@ -1,0 +1,9 @@
+{
+  "rule": "per-paper L2, float64; no post-PCA normalization",
+  "train_ids_hash": "c7b5d636ca3df0f7c2edfdf8ef11713a367b9f03c2b94d57abdd5792fffde750",
+  "feature_mask_hash": "0c584f360217fbe32cb7ed6bf75762b708c00a4b4c9051e8c78b492cea201daf",
+  "pca_fit": {
+    "seconds": 0.8032144000171684,
+    "peak_rss_bytes": 1351077888
+  }
+}

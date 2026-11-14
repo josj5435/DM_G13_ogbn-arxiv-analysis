@@ -1,0 +1,101 @@
+﻿node_id,pagerank,in_degree,future_citations,pagerank_rank,indegree_rank,alpha,cluster_id,label,year,mag_id,title
+159030,0.0034593755328603515,53,16,2,760,0.7,0,13,2010,2132424367,deep big simple neural nets for handwritten digit recognition
+14201,0.0021939667504147016,497,142,4,22,0.7,0,16,2013,2953360861,decaf a deep convolutional activation feature for generic visual recognition
+25208,0.0019445176782927882,3015,2511,5,1,0.7,0,16,2014,1686810756,very deep convolutional networks for large scale image recognition
+98786,0.001729107187870966,1717,548,6,4,0.7,0,16,2014,2950094539,caffe convolutional architecture for fast feature embedding
+46132,0.001656037259540105,793,437,7,15,0.7,0,16,2013,2952186574,visualizing and understanding convolutional networks
+35834,0.0011321624863418148,78,0,20,423,0.7,1,28,2007,1802395297,a deterministic approach to wireless relay networks
+133701,0.0009424046269094674,40,0,24,1155,0.7,1,28,2007,1575405595,wireless network information flow
+46136,0.0007869629508800337,107,4,37,260,0.7,1,28,2006,2952246969,hierarchical cooperation achieves optimal capacity scaling in ad hoc networks
+111307,0.0007042162139990986,166,7,47,142,0.7,1,8,2008,2122496159,femtocell networks a survey
+73035,0.0005979686012363974,368,187,56,42,0.7,1,13,2013,1799366690,network in network
+125360,0.0007525154276497032,341,14,43,47,0.7,2,28,2007,2952937400,gaussian interference channel capacity to within one bit
+116654,0.0006075249834760587,446,61,55,30,0.7,2,28,2013,2128513990,scaling up mimo opportunities and challenges with very large arrays
+44674,0.0005152484205880298,57,2,68,669,0.7,2,28,2007,2950562702,the effect of fading channel inversion and threshold scheduling on ad hoc networks
+85737,0.0004591257446406741,7,0,85,10345,0.7,2,28,2006,2952727214,on the capacity of gaussian weak interference channels with degraded message sets
+38619,0.0004346911412227217,3,0,93,21375,0.7,2,28,2009,2156588728,a family of likelihood ascent search multiuser detectors an upper bound of bit error rate and a lower bound of asymptotic multiuser efficiency
+164106,0.0005728797453885665,242,24,58,81,0.7,3,14,2012,1606347560,theano new features and speed improvements
+108538,0.0005552616910723995,162,28,59,147,0.7,3,30,2010,1662133657,from frequency to meaning vector space models of semantics
+139975,0.0005461929078464725,414,156,60,33,0.7,3,16,2014,2953391683,cnn features off the shelf an astounding baseline for recognition
+149111,0.0005439648328803688,191,73,61,110,0.7,3,24,2012,2949190276,on the difficulty of training recurrent neural networks
+30510,0.0005088734240459294,397,105,71,37,0.7,3,16,2014,1994002998,return of the devil in the details delving deep into convolutional nets
+109295,0.0004981041823191101,65,4,75,558,0.7,4,10,2002,2949320653,nonmonotonic reasoning preferential models and cumulative logics
+164205,0.0004411810342834154,70,8,90,508,0.7,4,10,1999,2061504687,decision theoretic planning structural assumptions and computational leverage
+18349,0.00039551007142256547,102,1,103,274,0.7,4,2,1998,2965093858,stable models and an alternative logic programming paradigm
+39560,0.00018664787547549656,15,0,293,4117,0.7,4,10,1993,2953285398,decidable reasoning in terminological knowledge representation systems
+3606,0.0001779948313156253,27,1,305,1909,0.7,4,10,1998,2952618957,the computational complexity of probabilistic planning
+46025,0.0003777593993449678,276,85,110,64,0.7,5,4,2012,2951011752,calibrating data to sensitivity in private data analysis
+4073,0.0003755359765051267,144,10,111,165,0.7,5,28,2006,2128295617,a simple cooperative diversity method based on network path selection
+81565,0.0003748298188342314,87,6,112,358,0.7,5,15,2001,2949835970,the anatomy of the grid enabling scalable virtual organizations
+27824,0.00034209790957507544,123,21,124,204,0.7,5,8,1998,1630733292,a quantitative measure of fairness and discrimination for resource allocation in shared computer systems
+16023,0.00029454057096737715,75,28,144,447,0.7,5,24,2010,2099201756,a tutorial on bayesian optimization of expensive cost functions with application to active user modeling and hierarchical reinforcement learning
+22035,0.0014249658642188248,1555,931,11,5,0.7,6,16,2014,2950179405,going deeper with convolutions
+27473,0.0007775328952573409,96,34,39,303,0.7,6,24,2009,2952362487,frustratingly easy domain adaptation
+40565,0.0004772729205397905,42,5,78,1053,0.7,6,10,2002,2949098898,what does a conditional knowledge base entail
+19417,0.0004673300337244609,85,8,81,371,0.7,6,24,2002,2949998441,thumbs up or thumbs down semantic orientation applied to unsupervised classification of reviews
+111956,0.0003854576245105205,450,132,108,29,0.7,6,28,2014,2949449061,what will 5g be
+146548,0.001216758314742132,409,66,16,34,0.7,7,28,2008,2949959192,exact matrix completion via convex optimization
+79102,0.00025943637229648296,71,2,177,494,0.7,7,28,2006,2951124819,an extremal inequality motivated by multiterminal information theoretic problems
+4726,0.00021101699885566304,18,1,240,3217,0.7,7,39,2002,2949702550,typical random 3 sat formulae and the satisfiability threshold
+90243,0.0001937580247954667,23,21,265,2421,0.7,7,10,2001,2144446635,infinite horizon policy gradient estimation
+131802,0.0001930448009223075,15,1,270,4302,0.7,7,34,2000,2949444750,small maximal independent sets and faster exact graph coloring
+26074,0.0011263307029160377,184,9,21,119,0.7,8,28,2006,2951037137,mimo broadcast channels with finite rate feedback
+154444,0.000815385041640028,45,3,34,973,0.7,8,8,2007,2951420276,uplink capacity and interference avoidance for two tier femtocell networks
+53241,0.0005272533610675284,13,0,63,4919,0.7,8,28,2005,1983750859,high snr analysis of mimo broadcast channels
+97563,0.0004521089936905422,9,0,88,7841,0.7,8,28,2006,2951632485,a feedback reduction technique for mimo broadcast channels
+129317,0.00040943886680436676,133,9,99,186,0.7,8,28,2007,2952310164,multiuser mimo achievable rates with downlink training and channel state feedback
+1353,0.001569226027006973,2557,3688,9,2,0.7,9,24,2014,1522301498,adam a method for stochastic optimization
+140314,0.0006909733449305302,2,0,48,34017,0.7,9,24,2012,1754156525,a family of computationally efficient and simple estimators for unnormalized statistical models
+43285,0.000469332918350971,69,24,79,510,0.7,9,24,2009,2949600092,search based structured prediction
+90841,0.00039016869823836365,70,19,106,504,0.7,9,34,2001,2949335702,smoothed analysis of algorithms why the simplex algorithm usually takes polynomial time
+167762,0.00033437033064825743,57,18,126,678,0.7,9,24,2004,2952840318,online convex optimization in the bandit setting gradient descent without a gradient
+154342,0.0009095992297327617,1034,788,27,12,0.7,10,30,2014,2949888546,sequence to sequence learning with neural networks
+115359,0.0008295062552559949,1131,1111,32,11,0.7,10,30,2014,2133564696,neural machine translation by jointly learning to align and translate
+44003,0.0007618374552640655,39,1,41,1174,0.7,10,24,1999,2142646165,learning to order things
+71636,0.0007300915175071439,463,250,46,27,0.7,10,24,2012,6908809,adadelta an adaptive learning rate method
+85721,0.0006333758247079424,173,60,51,131,0.7,10,10,1996,2952485636,reinforcement learning a survey
+43478,0.0008129233027207024,54,6,35,724,0.7,11,24,2002,2952019152,mining the web for synonyms pmi ir versus lsa on toefl
+127933,0.0003937987457685802,474,281,104,25,0.7,11,16,2014,2952122856,microsoft coco common objects in context
+137724,0.00018847383729761854,39,2,285,1198,0.7,11,5,2008,2146840150,market oriented cloud computing vision hype and reality for delivering it services as computing utilities
+79121,0.00017650880087025184,35,5,309,1390,0.7,11,37,2008,2951448804,universally utility maximizing privacy mechanisms
+64718,0.00017112218041758114,85,41,320,372,0.7,11,5,2012,2953060200,internet of things iot a vision architectural elements and future directions
+19389,0.0009149476514926193,211,11,26,96,0.7,12,28,2007,2949549882,coding for errors and erasures in random network coding
+163667,0.0007537725931703033,63,6,42,586,0.7,12,28,2005,2951069074,rate region of the quadratic gaussian two encoder source coding problem
+19635,0.0004854668907164273,62,1,77,590,0.7,12,28,2005,2953139962,approximately universal codes over slow fading channels
+63847,0.00046036266394854704,299,39,84,55,0.7,12,28,2009,2150498905,channel polarization a method for constructing capacity achieving codes for symmetric binary input memoryless channels
+33081,0.00035489190227290724,3,0,118,21186,0.7,12,28,2005,1500566477,an explicit construction of universally decodable matrices
+138634,0.00042571811654538473,129,16,94,192,0.7,13,28,2009,2952716509,matrix completion with noise
+164990,0.0003919851305993831,39,7,105,1205,0.7,13,24,2009,2951238624,multi label prediction via compressed sensing
+119218,0.0003702454173827735,195,12,114,105,0.7,13,28,2010,2125680629,model based compressive sensing
+79124,0.0003182945584267846,641,506,135,16,0.7,13,16,2015,2951548327,fast r cnn
+27336,0.00028746520990937085,17,2,148,3495,0.7,13,24,2012,2950320139,a generative process for sampling contractive auto encoders
+125272,0.002697851639633729,1270,515,3,8,0.7,14,16,2013,2951638509,rich feature hierarchies for accurate object detection and semantic segmentation
+22502,0.0015451426076868314,546,136,10,19,0.7,14,16,2013,1487583988,overfeat integrated recognition localization and detection using convolutional networks
+93649,0.001232012999053063,1472,1087,15,6,0.7,14,16,2014,2952020226,imagenet large scale visual recognition challenge
+67166,0.0009296725493056017,2276,3387,25,3,0.7,14,16,2015,2949650786,deep residual learning for image recognition
+94832,0.0009029483224278865,76,17,29,444,0.7,14,16,2012,2949966521,pedestrian detection with unsupervised multi stage feature learning
+88803,0.0034630947771665402,492,143,1,24,0.7,15,13,2012,1904365287,improving neural networks by preventing co adaptation of feature detectors
+94874,0.0016091266601543377,953,627,8,13,0.7,15,30,2013,2950577311,efficient estimation of word representations in vector space
+33955,0.0012054073234190955,193,39,17,106,0.7,15,24,2011,2950789693,building high level features using large scale unsupervised learning
+69794,0.0008262167921881974,1362,1347,33,7,0.7,15,24,2015,2949117887,batch normalization accelerating deep network training by reducing internal covariate shift
+47283,0.0007886222213866747,301,93,36,53,0.7,15,34,2007,2949364901,a tutorial on spectral clustering
+58062,0.00124593582178603,390,183,14,38,0.7,16,24,2012,2952111767,representation learning a review and new perspectives
+92275,0.00035013568944005855,88,16,121,350,0.7,16,3,2008,2951447818,predicting the popularity of online content
+145787,0.000325683177879207,58,6,128,661,0.7,16,3,2007,2058465497,novelty and collective attention
+145848,0.0003164842324906844,88,0,136,354,0.7,16,28,2010,2163597393,lecture notes on network information theory
+155046,0.0002703274227626377,117,33,165,224,0.7,16,7,2011,2171468534,twitter mood predicts the stock market
+16921,0.0013809049948834513,237,10,12,83,0.7,17,0,2008,2952296444,subspace pursuit for compressive sensing signal reconstruction
+101902,0.0012029691117493647,11,0,18,6238,0.7,17,24,2006,1639316992,low rank matrix factorization with attributes
+117980,0.0008488378457350008,37,6,31,1288,0.7,17,16,2010,2171490498,fast inference in sparse coding algorithms with applications to object recognition
+69228,0.000743172476938198,218,18,44,90,0.7,17,28,2008,2169472615,iterative hard thresholding for compressed sensing
+167755,0.000614895699811938,136,15,53,182,0.7,17,34,2003,2952776411,nearly linear time algorithms for graph partitioning graph sparsification and solving linear systems
+106699,0.0012868976721141271,1261,898,13,9,0.7,18,30,2013,2950133940,distributed representations of words and phrases and their compositionality
+6146,0.0008523312740386828,535,214,30,20,0.7,18,24,2011,2952230511,natural language processing almost from scratch
+84241,0.0006393509084874236,11,3,50,6160,0.7,18,24,2005,2950632837,measuring semantic similarity by latent relational analysis
+141153,0.0006333072851484094,584,546,52,18,0.7,18,30,2014,2950635152,learning phrase representations using rnn encoder decoder for statistical machine translation
+74067,0.000329852450298706,16,0,127,3852,0.7,18,24,2005,2953129863,corpus based learning of analogies and semantic relations
+55284,0.0007329077759377726,30,0,45,1683,0.7,19,28,2007,2949313286,johnson type bounds on constant dimension codes
+13954,0.0005257525962957719,179,21,65,125,0.7,19,28,2009,2949947345,the power of convex relaxation near optimal matrix completion
+92164,0.0005096042887957166,119,17,70,215,0.7,19,24,2009,2949834189,matrix completion from a few entries
+153223,0.0005080377056122797,56,4,73,693,0.7,19,24,2007,2952891134,consistency of the group lasso and multiple kernel learning
+15457,0.0004348536746496697,20,3,92,2831,0.7,19,24,2007,2950952569,consistency of trace norm minimization

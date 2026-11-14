@@ -1,0 +1,11 @@
+﻿node_id,pagerank,in_degree,future_citations,pagerank_rank,indegree_rank,alpha,cluster_id,label,year,mag_id,title,indegree_average_rank,pagerank_average_rank,rank_difference_ordinal,rank_difference,rank_difference_abs
+103323,0.000290376107204616,1,1,147,46696,0.7,8,28,2006,2104557903,uplink user capacity in a cdma system with hotspot microcells effects of finite transmit power and dispersion,44589.5,147.0,46549,44442.5,44442.5
+44588,0.00013692302741657105,1,0,449,40433,0.7,5,5,2004,2949319118,tycoon an implementation of a distributed market based resource allocation system,44589.5,449.0,39984,44140.5,44140.5
+97963,0.00012477686731177505,1,0,513,46115,0.7,5,5,2011,1558475262,aneka cloud application platform and its integration with windows azure,44589.5,513.0,45602,44076.5,44076.5
+34575,0.0001211754380009778,1,0,537,39346,0.7,6,30,2003,2099747601,i m sorry dave i m afraid i can t do that linguistics statistics and natural language processing circa 2001,44589.5,537.0,38809,44052.5,44052.5
+59797,9.106146907982623e-05,1,0,807,42083,0.7,5,30,1998,1715449336,comparing a statistical and a rule based tagger for german,44589.5,807.0,41276,43782.5,43782.5
+114775,7.439902622755479e-05,1,0,1069,47905,0.7,13,23,2009,2951816589,continuous verification of large embedded software using smt based bounded model checking,44589.5,1069.0,46836,43520.5,43520.5
+34033,6.985461488617498e-05,1,0,1165,39285,0.7,12,9,2003,2951800824,cryptographic randomized response techniques,44589.5,1165.0,38120,43424.5,43424.5
+22511,5.69982834772605e-05,1,1,1565,38030,0.7,18,30,2004,1503291951,delimited continuations in natural language quantification and polarity sensitivity,44589.5,1565.0,36465,43024.5,43024.5
+100594,5.5162312015803194e-05,1,0,1645,46403,0.7,19,5,2004,1603335956,strategy in ulam s game and tree code give error resistant protocols,44589.5,1645.0,44758,42944.5,42944.5
+141204,5.5073714048693755e-05,1,0,1651,50697,0.7,17,24,2008,2951517377,learning hidden markov models using non negative matrix factorization,44589.5,1651.0,49046,42938.5,42938.5

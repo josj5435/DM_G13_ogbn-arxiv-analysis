@@ -1,0 +1,4 @@
+﻿original_node_id,cluster_id,pagerank,year,label,title,is_center,is_anchor
+41967,13,4.9913406570943234e-06,2007,15,combined integer and variable precision civp floating point multiplication architecture for fpgas,False,False
+85521,13,4.9913406570943234e-06,2007,5,graphic processors to speed up simulations for the design of high performance solar receptors,False,True
+85994,13,1.0232248356923133e-05,2006,15,implementation of float float operators on graphics hardware,False,False

@@ -1,0 +1,2 @@
+﻿stage,evaluation_year,cutoff,n_total_year_papers,n_eligible_queries,n_excluded_queries,query_inclusion_rate,min_internal_past_references,scope
+final,2018,2017,29799,15072,14727,0.5057887848585523,5,internal past references only; eligible papers only

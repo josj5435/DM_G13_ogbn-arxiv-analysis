@@ -1,0 +1,87 @@
+{
+  "pages": 10,
+  "page_measurements": [
+    {
+      "planned_page": 1,
+      "height_pt": 485,
+      "available_pt": 739.84
+    },
+    {
+      "planned_page": 2,
+      "height_pt": 670,
+      "available_pt": 739.84
+    },
+    {
+      "planned_page": 3,
+      "height_pt": 534,
+      "available_pt": 739.84
+    },
+    {
+      "planned_page": 4,
+      "height_pt": 578,
+      "available_pt": 739.84
+    },
+    {
+      "planned_page": 5,
+      "height_pt": 604,
+      "available_pt": 739.84
+    },
+    {
+      "planned_page": 6,
+      "height_pt": 708.57,
+      "available_pt": 739.84
+    },
+    {
+      "planned_page": 7,
+      "height_pt": 668.36,
+      "available_pt": 739.84
+    },
+    {
+      "planned_page": 8,
+      "height_pt": 687.78,
+      "available_pt": 739.84
+    },
+    {
+      "planned_page": 9,
+      "height_pt": 634,
+      "available_pt": 739.84
+    },
+    {
+      "planned_page": 10,
+      "height_pt": 644,
+      "available_pt": 739.84
+    }
+  ],
+  "page_starts": [
+    "1\n 시간 제한 인용망에서 논문의 영향력과 내용 군집 및 참고문헌 복원\nSCE331 Data Mining | G13 | 아주대학교 소프트웨어학과\n이름\n학번\n역할과",
+    "2\n2 Data acquisition and preprocessing\n2.1 데이터 출처와 획득\n데이터 제공자는 Open Graph Benchmark와 Micro",
+    "3\n3 Methods\n전체 파이프라인은 공식 데이터 획득, 정리, 과거 snapshot·평가 마스크 생성, 2017년 검증, 설정 동결, 2018년 최\n종 평가,",
+    "4\n3.3 Apriori 연관 규칙과 참고문헌 추천\n과거 논문 한 편을 transaction으로, 그 논문이 인용한 내부 과거 논문의 중복 없는 집합을 baske",
+    "5\n4.2 지표의 정의와 공정한 비교 계속\n군집의 Silhouette은 점별 군집 내부 평균거리 a와 가장 가까운 다른 군집까지의 평균거리 b를 이용한 \n(b−a",
+    "6\n5 Results and discussion\n5.1 PageRank와 미래 인용 순위\n검토된 실험 결과 묶음은 arxiv_v2_20261106_review_2",
+    "7\n5.2 내용 군집과 인용 패턴\n표 8 k=20의 최종 군집 품질과 안정성\n차원 d\nSilhouette 평균 ± SD\nARI 평균\nseed 간 ARI\n16\n0.",
+    "8\n5.3 참고문헌 복원의 성능과 실패 범위\n표 9는 동일한 적격 질의 15,072편에 대한 마스크 seed 5개의 평균이다. ±는 마스크 간 표본 표준편차이며 ",
+    "9\n5.4 정적 관계 시각화와 계산 비용\n선택 seed=42로 군집 1·13·14와 논문 14544·15942·33989·117825·145246을 추출하였다. ",
+    "10\nReferences\n [1] Open Graph Benchmark, “Node Property Prediction: ogbn-arxiv,” dataset v"
+  ],
+  "chars_by_page": [
+    1358,
+    1767,
+    1580,
+    1647,
+    1961,
+    1221,
+    1330,
+    1313,
+    1862,
+    2965
+  ],
+  "body_font_pt": 10,
+  "body_leading_pt": 15,
+  "korean_font": "Malgun Gothic",
+  "english_font": "Times New Roman",
+  "missing_submission_fields": [
+    "GitHub URL",
+    "full commit hash"
+  ]
+}
